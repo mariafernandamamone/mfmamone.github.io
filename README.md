@@ -19,11 +19,11 @@ Actualmente estoy ampliando mis conocimientos en **Python** y desarrollo backend
 
 ### 🌐 Proyectos destacados
 - **iupi** – E-commerce de snacks saludables  
-  👉 https://iupi.com.ar  
+  👉 https://iupisnaksricosysaludables.com.ar
   WordPress · Elementor Pro · WooCommerce
 
 - **Audiophile** – WordPress website based on a Figma design  
-  👉 https://maroon-hippopotamus-508403.hostingersite.com  
+  👉 https://audiophile.uno 
   WordPress · Elementor · Layout replication
 
 ---
