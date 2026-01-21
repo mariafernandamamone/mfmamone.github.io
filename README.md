@@ -1,45 +1,58 @@
-# María Fernanda Mamone – Personal Portfolio
+# Hi, I’m María Fernanda Mamone 👋
 
-![Website Preview](preview.gif)
+## 🇪🇸 Español
 
-Welcome to my personal portfolio, built with HTML and CSS and hosted on GitHub Pages. I'm a full stack web developer in training with a background in dentistry, now focused on creating accessible and beautiful websites.
+Soy odontóloga desde 2008 y desarrolladora web especializada en **WordPress Frontend**.  
+Desde 2023 me formo profesionalmente en **desarrollo full stack**, con foco en WordPress, diseño web y experiencia de usuario.
 
-## 🚀 Live Website
-👉 [Visit my portfolio](https://frenchitas.github.io/mfmamone.github.io/)
+Trabajo principalmente con **Elementor, WooCommerce y CSS**, desarrollando sitios reales para emprendimientos y clientes.  
+Actualmente estoy ampliando mis conocimientos en **Python** y desarrollo backend.
 
----
+### 🧩 Tecnologías y herramientas
+- WordPress
+- Elementor / Elementor Pro
+- WooCommerce
+- HTML, CSS, Sass
+- Figma (diseño a implementación)
+- Git & GitHub
+- Python (en formación)
 
-## 🛠️ Tech Stack
+### 🌐 Proyectos destacados
+- **iupi** – E-commerce de snacks saludables  
+  👉 https://iupi.com.ar  
+  WordPress · Elementor Pro · WooCommerce
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=flat-square&logo=github&logoColor=white)
-
----
-
-## 👩‍💻 About Me
-
-I'm María Fernanda Mamone, a developer in transition from healthcare to tech. Since 2022 I'm completing a full stack development master's degree and building web projects that combine creativity and functionality.  
-
-💜 Favorite color palette: lilacs and violets  
-🌍 Based in Argentina  
-📚 Learning: JavaScript, responsive design, and WordPress development  
-
----
-
-## 📈 Goals
-
-- Make this site fully responsive  
-- Add animations and interactive components  
-- Connect with potential clients/employers  
+- **Audiophile** – WordPress website based on a Figma design  
+  👉 https://maroon-hippopotamus-508403.hostingersite.com  
+  WordPress · Elementor · Layout replication
 
 ---
 
-## 📫 Contact
+## 🇬🇧 English
 
-- [LinkedIn](https://www.linkedin.com/in/maría-fernanda-a385ab317)
-- [GitHub](https://github.com/Frenchitas)
+I am a web developer specialized in **WordPress Frontend**, with a background in dentistry and a strong focus on user experience and visual implementation.
+
+Since 2023, I have been training in **full stack development**, working mainly with WordPress, Elementor, and WooCommerce.  
+I am currently expanding my skills in **Python** and backend development.
+
+### 🧩 Technologies & Tools
+- WordPress
+- Elementor / Elementor Pro
+- WooCommerce
+- HTML, CSS, Sass
+- Figma (design to layout)
+- Git & GitHub
+- Python (learning)
+
+### 🌐 Featured Projects
+- **iupi** – Healthy snacks e-commerce  
+  👉 https://iupi.com.ar  
+
+- **Audiophile** – WordPress site based on Figma design  
+  👉 https://maroon-hippopotamus-508403.hostingersite.com  
 
 ---
 
-> ✨ Built with love, code and violet vibes
+📫 **LinkedIn**  
+https://www.linkedin.com/in/maría-fernanda-a385ab317
+
