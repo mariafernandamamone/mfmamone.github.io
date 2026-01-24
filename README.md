@@ -2,7 +2,7 @@
 
 🇪🇸 **Español**
 
-Soy odontóloga desde 2008 y desarrolladora web especializada en **WordPress Frontend**.  
+Soy odontóloga desde 2007 y desarrolladora web especializada en **WordPress Frontend**.  
 Desde 2023 me formo profesionalmente en **desarrollo full stack**, con foco en WordPress, diseño web y experiencia de usuario.
 
 Trabajo principalmente con **Elementor, WooCommerce y CSS**, desarrollando sitios reales para emprendimientos y clientes.  
@@ -73,4 +73,5 @@ I am currently expanding my skills in **Python and backend development**.
 ---
 
 ## 📫 LinkedIn  
-👉 https://www.linkedin.com/in/maría-fernanda-a385ab317  
+👉 https://www.linkedin.com/in/mfmamone
+  
