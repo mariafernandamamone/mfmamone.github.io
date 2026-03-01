@@ -37,6 +37,12 @@ Multipage institutional website developed with a clean layout structure and reus
 
 ---
 
+**Recent Projects:**
+- **[Audiophile.uno](https://audiophile.uno)** – WordPress website built with **Elementor Pro** and **WooCommerce**, including custom design and product management.
+- **[Iupisnaksricosysaludables.com.ar](https://iupisnaksricosysaludables.com.ar)** – E-commerce site using **WordPress**, **Elementor Pro**, and **WooCommerce**, optimized for online sales and user experience.
+
+---
+
 ## Technical Skills
 
 - HTML5
